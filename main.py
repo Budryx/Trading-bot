@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main Freqtrade bot script.
+Main Trading bot script.
 Read the documentation to know what cli arguments you need.
 """
 import logging
